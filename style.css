@@ -1,0 +1,101 @@
+#first-background{
+    background-image:url("./imgs/星空.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+#nameb{
+    font-size: 150px;
+    font-style: italic;
+    font-weight: bold;
+}
+#namef{
+    padding-left:700px;
+    padding-top:50px;
+}
+#name{
+    padding-left:450px;
+}
+span{
+    font-size:180px;
+}
+#second-background{
+    background-image:url("./imgs/星空4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+.box1{
+    font-size:40px;
+    overflow:hidden;
+}
+.box{
+    float:left;
+}
+#abox{
+    padding-left:100px;
+    padding-top:150px;
+}
+#age{
+    color:white;
+    border-bottom:solid;
+    font-style: italic;
+    font-weight: bold;
+}
+#ubox{
+    padding-left:250px;
+}
+#university{
+    color:white;
+    border-bottom:solid;
+    font-style: italic;
+    font-weight: bold;
+}
+#dbox{
+    padding-left:450px;
+}    
+#department{
+    color:white;
+    border-bottom:solid;
+    font-style: italic;
+    font-weight: bold;
+   }
+.box2{
+    font-size:40px;
+    padding-top:250px;
+}   
+#hbox{
+    padding-left:100px;
+}
+#hoby{
+    color:white;
+    border-bottom:solid;
+    font-style: italic;
+    font-weight: bold;
+  }
+#fbox{
+    padding-left:250px;
+}
+#favorite-food{
+    color:white;
+    border-bottom:solid;
+    font-style: italic;
+    font-weight: bold;
+   }
+#ebox{
+    padding-left:450px;
+}
+#favorite-ett{
+    color:white;
+    border-bottom:solid;
+    font-style: italic;
+    font-weight: bold;
+}
+#form{
+    display:none;
+}
+#ac{
+    padding-left:150px;
+}
